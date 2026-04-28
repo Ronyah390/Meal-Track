@@ -29,3 +29,5 @@ Meal Tracker হলো একটি স্মার্ট মেস ম্যা
 ✔️ সবার জন্য একসাথে ট্রান্সপারেন্ট হিসাব
 
 📌 এখনই Meal Tracker ব্যবহার শুরু করুন এবং মেসের সব হিসাবকে করুন সহজ ও স্মার্ট!
+
+Clicl Here to Download directly [Download Meal Tracker APK](https://github.com/Ronyah390/Meal-Track/raw/main/Meal-Tracker-v1.0.0.apk)
